@@ -23,93 +23,15 @@ dev_dependencies:
 # The following section is specific to Flutter packages.
 flutter:
   assets:
-    # Bold
-    - assets/bold/arrow/
-    - assets/bold/communication/
-    - assets/bold/ecommerce/
-    - assets/bold/emojis/
-    - assets/bold/files/
-    - assets/bold/general/
-    - assets/bold/interface/
-    - assets/bold/math/
-    - assets/bold/media/
-    
-    # Regular
-    - assets/regular/arrow/
-    - assets/regular/communication/
-    - assets/regular/ecommerce/
-    - assets/regular/emojis/
-    - assets/regular/files/
-    - assets/regular/general/
-    - assets/regular/interface/
-    - assets/regular/math/
-    - assets/regular/media/
-
-    # Color
-    - assets/color/arrow/
-    - assets/color/communication/
-    - assets/color/ecommerce/
-    - assets/color/emojis/
-    - assets/color/files/
-    - assets/color/general/
-    - assets/color/interface/
-    - assets/color/math/
-    - assets/color/media/
-
-    # Cute
-    - assets/cute/arrow/
-    - assets/cute/communication/
-    - assets/cute/ecommerce/
-    - assets/cute/emojis/
-    - assets/cute/files/
-    - assets/cute/general/
-    - assets/cute/interface/
-    - assets/cute/math/
-    - assets/cute/media/
-
-    # Duotone
-    - assets/duotone/arrow/
-    - assets/duotone/communication/
-    - assets/duotone/ecommerce/
-    - assets/duotone/emojis/
-    - assets/duotone/files/
-    - assets/duotone/general/
-    - assets/duotone/interface/
-    - assets/duotone/math/
-    - assets/duotone/media/
-
-    # Fill
-    - assets/fill/arrow/
-    - assets/fill/communication/
-    - assets/fill/ecommerce/
-    - assets/fill/emojis/
-    - assets/fill/files/
-    - assets/fill/general/
-    - assets/fill/interface/
-    - assets/fill/math/
-    - assets/fill/media/
-
-    # Light
-    - assets/light/arrow/
-    - assets/light/communication/
-    - assets/light/ecommerce/
-    - assets/light/emojis/
-    - assets/light/files/
-    - assets/light/general/
-    - assets/light/interface/
-    - assets/light/math/
-    - assets/light/media/
-
-    # Thin
-    - assets/thin/arrow/
-    - assets/thin/communication/
-    - assets/thin/ecommerce/
-    - assets/thin/emojis/
-    - assets/thin/files/
-    - assets/thin/general/
-    - assets/thin/interface/
-    - assets/thin/math/
-    - assets/thin/media/
+    - assets/bold/
+    - assets/color/
+    - assets/cute/
+    - assets/duotone/
+    - assets/fill/
+    - assets/light/
+    - assets/regular/
+    - assets/thin/
+  
     
 flutter_gen:
   integrations:
