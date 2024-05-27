@@ -1,3 +1,4 @@
 library icona;
 
-export 'gen/assets.gen.dart';
+// ignore: unused_import
+import 'gen/assets.gen.dart';
