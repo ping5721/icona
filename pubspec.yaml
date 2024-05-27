@@ -4,7 +4,7 @@ version: 1.0.0+1
 repository: https://github.com/ping5721/icona
 
 environment:
-  sdk: '>=3.3.4 <4.0.0'
+  sdk: ">=2.18.0 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
