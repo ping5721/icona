@@ -117,3 +117,5 @@ flutter_gen:
   assets:
     outputs: 
       class_name: Iconamoon
+      package_parameter_enabled: true 
+      directory_path_enabled: true
