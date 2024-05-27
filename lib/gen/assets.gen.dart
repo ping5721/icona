@@ -11139,8 +11139,8 @@ class $AssetsThinMediaGen {
       ];
 }
 
-class Assets {
-  Assets._();
+class Iconamoon {
+  Iconamoon._();
 
   static const $AssetsBoldGen bold = $AssetsBoldGen();
   static const $AssetsColorGen color = $AssetsColorGen();

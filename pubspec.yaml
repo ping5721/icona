@@ -110,4 +110,7 @@ flutter:
     - assets/thin/math/
     - assets/thin/media/
     
-  
+flutter_gen:
+  assets:
+    outputs: 
+      class_name: Iconamoon
