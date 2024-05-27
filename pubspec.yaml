@@ -1,6 +1,7 @@
 name: icona
 description: "Packages for Iconamoon icons"
-version: 0.0.1
+version: 1.0.0+1
+repository: https://github.com/ping5721/icona
 
 environment:
   sdk: '>=3.3.4 <4.0.0'
